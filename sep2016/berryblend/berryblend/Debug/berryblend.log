@@ -1,0 +1,29 @@
+﻿  berryblend.cpp
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\berryblend.h(322): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(197): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(198): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(218): warning C4018: '>=': signed/unsigned mismatch
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(235): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(255): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(259): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(326): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(327): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(328): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(356): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(360): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(364): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(368): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(576): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(586): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(680): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(694): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(708): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\mesh.h(733): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\scene.h(68): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\forwardrender.h(96): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\administrator\desktop\sep2016\berryblend\berryblend\forwardrender.h(102): warning C4305: 'argument': truncation from 'double' to 'float'
+  berryblend.vcxproj -> C:\Users\Administrator\Desktop\sep2016\berryblend\Debug\berryblend.exe
